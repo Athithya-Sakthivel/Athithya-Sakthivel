@@ -1,6 +1,6 @@
 # Hi, I'm Athithya 👋
 
-I'm an early-career **GenAI & DevOps engineer** based in Chennai.
+I'm an early-career GenAI & DevOps Engineer based in Chennai, currently pursuing my final-semester B.Tech in Artificial Intelligence & Data Science.
 
 I build **production-minded AI systems** — the application, the infrastructure, and the observability that keeps them operable — secure, scalable, and cost-conscious by design.
 
@@ -8,26 +8,23 @@ I build **production-minded AI systems** — the application, the infrastructure
 
 **GenAI:** AWS Bedrock · RAG · AI agents · Evaluation · OpenTelemetry
 
-B.Tech (AI & DS), final semester.
-
-**Open to:** Internships and entry-level roles — backend, cloud , DevOps, AI-infra, and FDE-adjacent work
+Open to: Internships in Backend Engineering, Cloud, DevOps, AI Infrastructure, and Forward Deployed Engineering (FDE).
 
 ---
 
-## Selected work
+## Projects & Impact
 
-A few projects I've designed, deployed, and measured end to end.
+Selected engineering projects, with measurable outcomes and documented trade-offs.
 
 | Project | What it is | Outcomes |
 |---|---|---|
-| **[RAG8s](https://github.com/Athithya-Sakthivel/RAG8s)** | Enterprise RAG platform on Kubernetes — 8 independently deployable microservices, streaming inference, OIDC auth, per-user rate limiting, GitOps-driven deployments | Groundedness 0.95 · recall@3 0.72 · 2.6s end-to-end latency |
 | **[AutoSRE](https://github.com/Athithya-Sakthivel/AutoSRE)** | Event-driven autonomous SRE agent for Kubernetes — diagnoses from telemetry, tiered remediation with human approval for high-risk actions, verifies recovery | 12/14 incidents resolved · 0 safety violations · ~98% MTTR reduction · $0.02 per incident |
+| [RAG8s](https://github.com/Athithya-Sakthivel/RAG8s) | Enterprise RAG platform on Kubernetes featuring 8 independently deployable microservices, streaming inference, OIDC authentication, per-user rate limiting, and GitOps-driven deployments | Groundedness: 0.95 · Recall@3: 0.72 · End-to-end latency: 2.6s · LLM rate limit: 5 requests/minute per user · 24 monitoring alerts |
 | **[aks-canary-platform](https://github.com/Athithya-Sakthivel/aks-canary-platform)** | Self-healing canary deployment on AKS (0% → 10% → 100%), where Argo Rollouts automatically rolls back failed k6/Playwright validations | Auto-rollback on failed canary · 0 manual interventions · 0 long-lived secrets · 8 security controls|
 | **[TicketWeave](https://github.com/Athithya-Sakthivel/TicketWeave)** | AI-powered ticket triage for e-commerce support teams on Amazon ECS — deterministic routing, 5-layer security architecture | ~$23/month in staging · sub-5ms inline RAG · 0 critical/high DAST findings · CI **8m → 2m40s** via dependency caching |
 ---
 
-> Metrics come from my own environments, not production. Each repo README covers key features, step-by-step setup, design tradeoffs, and limitations.
-
+> *All reported metrics and results are measured in self-managed development and staging environments, not production. Results are environment-specific. Each repository documents its evaluation methodology, measurement context, setup instructions, design trade-offs, and known limitations.*
 ---
 
 ## Let's connect
