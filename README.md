@@ -8,7 +8,7 @@ I build **production-oriented AI systems** — the application, the infrastructu
 
 **GenAI:** AWS Bedrock · RAG · AI agents · Evaluation · OpenTelemetry
 
-**Open to internships in** AI infrastructure, DevOps, MLOps, SRE, and Forward Deployed Engineering (FDE).
+**Open to internships in** AI, Cloud, DevOps, MLOps, SRE, and Forward Deployed Engineering (FDE).
 
 ---
 
