@@ -1,18 +1,18 @@
-# Hi, I'm Athithya 👋
+## Hi, I'm Athithya 👋
 
-I'm an AI & DevOps Engineer based in Chennai, currently completing my final-semester B.Tech in Artificial Intelligence & Data Science.
+I'm an early-career GenAI & DevOps Engineer based in Chennai, currently pursuing my final-semester B.Tech in Artificial Intelligence & Data Science.
 
-I build cloud-native AI systems using production-minded engineering practices. My work combines AI application integration with cloud infrastructure, Kubernetes, deployment automation, security, and observability to build reliable and cost-conscious systems.
+I build and deploy **production-oriented AI systems**, covering the application, infrastructure, and observability needed to keep them secure, scalable, and cost-efficient.
 
-**Core Technical Skills**
+## Core Technical Skills
 
-**Cloud & Platform Engineering:** AWS · Azure · Kubernetes · Docker · Terraform · Argo CD · Argo Rollouts · Karpenter
+**Cloud & Platform Engineering:**      AWS · Azure · Kubernetes · Docker · Terraform · Argo CD · Argo Rollouts · Karpenter
 
-**GenAI & LLMOps:** AWS Bedrock · RAG · GraphRAG · AI Agents · Evaluation harness · LangGraph · OpenInference
+**GenAI & LLMOps:**      AWS Bedrock · RAG · GraphRAG · AI Agents · Evaluation harness · LangGraph · OpenInference
 
-**Observability & Monitoring:** Prometheus · Grafana · OpenTelemetry · OpenObserve
+**Observability & Monitoring:**     Prometheus · Grafana · OpenTelemetry · OpenObserve
 
-**Programming & Data:** Python · SQL
+**Programming & Data:**     Python · SQL
 
 ---
 
