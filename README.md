@@ -1,30 +1,30 @@
 ## Hi, I'm Athithya 👋
 
-I'm an early-career GenAI & DevOps Engineer based in Chennai, currently pursuing my final semester of B.Tech in Artificial Intelligence & Data Science.
+I'm a GenAI & DevOps Engineer based in Chennai, focused on building and deploying reliable AI systems and cloud-native infrastructure.
 
-I build and deploy **production-oriented AI systems**, spanning application development, infrastructure, and observability, with a focus on security, scalability, and cost efficiency.
+I build **production-oriented AI systems**, spanning application development, infrastructure, and observability, with a focus on security, scalability, and cost efficiency.
 
-I leverage **AI-assisted development** to accelerate implementation and turn ideas into reliable, deployable systems.
+I believe building software goes beyond making things work. I emphasize rigorous engineering validation through automated testing, code quality checks, integration testing, evaluation-gated CI/CD pipelines, API contract verification, and safety testing.
 
-But I don't stop at making things work. I believe in rigorous engineering validation through automated testing, code quality checks, integration testing, evaluation-gated CI/CD pipelines, API contract verification, and safety testing.
+**Build with AI. Validate with rigor. Deliver with confidence.**
 
 ---
 
 ## Core Technical Skills
 
-**Cloud & Platform Engineering:**      AWS · Azure · Kubernetes · Docker · Terraform · Argo CD · Argo Rollouts · Karpenter
+ - **Cloud & Platform Engineering:**      AWS · Azure · Kubernetes · Docker · Terraform · Argo CD · Argo Rollouts · Karpenter
 
-**GenAI & LLMOps:**      AWS Bedrock · RAG · GraphRAG · AI Agents · Evaluation harness · LangGraph · OpenInference
+ - **GenAI & LLMOps :**      AWS Bedrock · RAG · GraphRAG · AI Agents · Evaluation harness · LangGraph · OpenInference
 
-**Observability & Monitoring:**     Prometheus · Grafana · OpenTelemetry · OpenObserve
+ - **Observability & Monitoring:**     Prometheus · Grafana · OpenTelemetry · OpenObserve
 
-**Programming & Data:**     Python · SQL
+ - **Programming & Data:**     Python · SQL
 
 ---
 
 ## Projects & Impact
 
-Selected engineering projects demonstrating system design, infrastructure automation, AI integration, and measurable engineering outcomes.
+Selected engineering projects demonstrating end-to-end engineering, infrastructure automation, AI integration, and measurable engineering outcomes.
 
 | Project | What it is | Outcomes |
 |---|---|---|
@@ -36,13 +36,13 @@ Selected engineering projects demonstrating system design, infrastructure automa
 
 ---
 
-**Disclaimer:** All metrics are measured in self-managed development and staging environments, not production. Results are environment-specific. Each repository documents its evaluation methodology, measurement context, setup instructions, design trade-offs, and known limitations.
+> All metrics are measured in self-managed development and staging environments, not production. Results are environment-specific. Each repository documents its evaluation methodology, measurement context, setup instructions, design trade-offs, and limitations.
 
 ---
 
 ## Let's Connect
 
-Always happy to discuss GenAI systems, cloud infrastructure, platform engineering, or internship opportunities.
+Always happy to discuss GenAI systems, cloud infrastructure, platform engineering, or opportunities.
 
 - LinkedIn: [athithya-sakthivel](https://www.linkedin.com/in/athithya-sakthivel-a23062341/)
 - Email: [athithya651@gmail.com](mailto:athithya651@gmail.com)
