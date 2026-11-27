@@ -1,6 +1,6 @@
 # Hi, I'm Athithya 👋
 
-**LLMOps & DevOps Engineer | Cloud-Native Infrastructure | AI Systems Engineering**
+**DevOps & LLMOps Engineer | Cloud-Native Infrastructure | AI Systems Engineering**
 
 Based in Chennai, India.
 
@@ -44,7 +44,7 @@ All reported metrics were measured in self-managed development and staging envir
 
 ### Let's Connect
 
-Interested in discussing LLMOps, GenAI infrastructure, Kubernetes, DevSecOps, platform engineering, and reliable AI systems.
+Always happy to discuss AI infrastructure, platform engineering, cloud-native technologies or opportunities.
 
 - **GitHub:** [Athithya-Sakthivel](https://github.com/Athithya-Sakthivel)
 - **LinkedIn:** [Athithya S.](https://www.linkedin.com/in/athithya-sakthivel-a23062341/)
