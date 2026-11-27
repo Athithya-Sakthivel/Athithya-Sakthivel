@@ -26,17 +26,17 @@ I believe building software goes beyond making systems functional. I prioritize 
 
 ### Featured Projects
 
-Selected projects demonstrating hands-on experience in AI engineering, cloud infrastructure, platform automation, security, and reliability.
+Selected projects showcasing hands-on experience in **DevOps, LLMOps, cloud infrastructure, Kubernetes, CI/CD automation, observability, security, and end-to-end AI system engineering.**
 
 | Project | Engineering Focus | Key Results |
 |---|---|---|
-| [**AutoSRE**](https://github.com/Athithya-Sakthivel/AutoSRE) | Autonomous SRE Agent & Evaluation Harness | 12/14 incidents resolved · 0 safety violations · ~98% MTTR reduction · $0.02/incident |
 | [**aks-canary-platform**](https://github.com/Athithya-Sakthivel/aks-canary-platform) | Automated Canary Deployments & Rollbacks on AKS | Automated rollback · 0 manual interventions · 0 long-lived secrets · 8 security controls |
+| [**AutoSRE**](https://github.com/Athithya-Sakthivel/AutoSRE) | Autonomous SRE Agent & Evaluation Harness | 12/14 incidents resolved · 0 safety violations · ~98% MTTR reduction · $0.02/incident |
+| [**TicketWeave**](https://github.com/Athithya-Sakthivel/TicketWeave) | Secure AI-Powered Ticket Triage on AWS ECS | ~$23/month staging cost · Sub-5ms inline RAG · 0 critical/high DAST findings · 3× faster CI |
 | [**RAG8s**](https://github.com/Athithya-Sakthivel/RAG8s) | End-to-End RAG Platform for Internal Knowledge Bases | 0.95 groundedness · 0.72 Recall@5 · 0.89 citation integrity · 2.6s latency |
 | [**Legal GraphRAG**](https://github.com/Athithya-Sakthivel/legal-graphrag) | Structure-Aware Retrieval & Citation Graphs | 0.9158 Recall@10 · 0.8878 nDCG@10 · 9.5K case-law opinions |
-| [**TicketWeave**](https://github.com/Athithya-Sakthivel/TicketWeave) | Secure AI-Powered Ticket Triage on AWS ECS | ~$23/month staging cost · Sub-5ms inline RAG · 0 critical/high DAST findings · 3× faster CI |
 
-**Engineering & Measurement Notes**
+---
 
 All reported metrics were measured in self-managed development and staging environments, not production. Results are environment-specific. Each repository documents its evaluation methodology, measurement context, setup instructions, architectural decisions, trade-offs, and limitations.
 
